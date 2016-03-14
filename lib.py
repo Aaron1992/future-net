@@ -2,8 +2,8 @@ import numpy as np
 from copy import deepcopy
 
 M = np.int_(1000)
-topo_file = "topo70.csv"
-demand_file = "demand70.csv"
+topo_file = "topo.csv"
+demand_file = "demand.csv"
 
 def read_topo():
     link_array = np.loadtxt(topo_file, dtype=int, delimiter=",")
