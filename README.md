@@ -4,6 +4,6 @@
 `python3 sk.py`
 
 #说明
-1 输入文件在 lib.py中指定
-2 sk文件中 KEEP_MAX 影响精度和运行时间
+* 1 输入文件在 lib.py中指定
+* 2 sk文件中 KEEP_MAX 影响精度和运行时间
 
